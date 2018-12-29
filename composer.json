@@ -1,0 +1,17 @@
+{
+    "name": "linziyi/pay",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "dudj",
+            "email": "13020078873@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
